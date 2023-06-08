@@ -1,1 +1,13 @@
 /* CSS stillerinizi buraya girin */
+
+.header {
+  border: 1px solid black;
+}
+
+.content {
+}
+.images {
+}
+.footer {
+  border: 1px solid black;
+}
